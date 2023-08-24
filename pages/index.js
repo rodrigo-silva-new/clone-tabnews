@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Esta é a frase definitiva para esse teste (mais uma mudança)</h1>
+    return <h1>Nova frase, só para criar um novo deploy</h1>
 }
 
 export default Home;
